@@ -4,7 +4,7 @@ Definition and Usage
     
     The <details> tag specifies additional details that the user can open and close on demand.
 
-    The <details> tag is often used to create an interactive widget that the user can open and close. By default, the widget is closed. 
+    The <details> tag is often used to create an interactive widget that the user can open and close.By default,the widget is closed
     When open, it expands, and displays the content within.
 
     Any sort of content can be put inside the <details> tag. 
